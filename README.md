@@ -1,5 +1,4 @@
-# Tanza![tanzania-physical-map](https://user-images.githubusercontent.com/110783008/211255916-e212119e-f0be-474f-8361-52648bb60f28.jpeg)
-nia_waterpoint_classification
+# Tanzania_waterpoint_classification
 
 ## Business Problem:
 Tanzania is a developing country, it has a very large population of over 57,000,000. The country struggles to provide clean water.
